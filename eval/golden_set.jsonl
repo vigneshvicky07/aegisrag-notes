@@ -1,0 +1,52 @@
+{"query": "Explain the TCP three-way handshake.", "tenant": "demo", "relevant_locations": [{"text_contains": ["SYN", "three-way"]}]}
+{"query": "How does TCP terminate a connection?", "tenant": "demo", "relevant_locations": [{"text_contains": ["FIN", "connection release"]}]}
+{"query": "Describe TCP slow start and congestion avoidance.", "tenant": "demo", "relevant_locations": [{"text_contains": ["slow start", "congestion window"]}]}
+{"query": "What is the AIMD algorithm?", "tenant": "demo", "relevant_locations": [{"text_contains": ["additive increase", "multiplicative decrease"]}]}
+{"query": "How does the sliding window protocol work?", "tenant": "demo", "relevant_locations": [{"text_contains": ["sliding window", "sequence number"]}]}
+{"query": "Compare stop-and-wait with sliding window protocols.", "tenant": "demo", "relevant_locations": [{"text_contains": ["stop-and-wait"]}, {"text_contains": ["sliding window"]}]}
+{"query": "What is selective repeat ARQ?", "tenant": "demo", "relevant_locations": [{"text_contains": ["selective repeat"]}]}
+{"query": "How does Go-Back-N work?", "tenant": "demo", "relevant_locations": [{"text_contains": ["go-back-n"]}]}
+{"query": "Explain the difference between TCP and UDP.", "tenant": "demo", "relevant_locations": [{"text_contains": ["UDP", "connectionless"]}]}
+{"query": "What is the Nagle algorithm?", "tenant": "demo", "relevant_locations": [{"text_contains": ["Nagle"]}]}
+{"query": "Describe the Karn algorithm for RTT estimation.", "tenant": "demo", "relevant_locations": [{"text_contains": ["Karn"]}]}
+{"query": "What is silly window syndrome?", "tenant": "demo", "relevant_locations": [{"text_contains": ["silly window"]}]}
+{"query": "Explain the Dijkstra shortest path algorithm for routing.", "tenant": "demo", "relevant_locations": [{"text_contains": ["Dijkstra"]}]}
+{"query": "How does distance vector routing work?", "tenant": "demo", "relevant_locations": [{"text_contains": ["distance vector"]}]}
+{"query": "What is the count-to-infinity problem?", "tenant": "demo", "relevant_locations": [{"text_contains": ["count-to-infinity"]}]}
+{"query": "Describe the link state routing protocol.", "tenant": "demo", "relevant_locations": [{"text_contains": ["link state"]}]}
+{"query": "What is OSPF?", "tenant": "demo", "relevant_locations": [{"text_contains": ["OSPF"]}]}
+{"query": "Explain hierarchical routing.", "tenant": "demo", "relevant_locations": [{"text_contains": ["hierarchical routing"]}]}
+{"query": "What is CIDR notation?", "tenant": "demo", "relevant_locations": [{"text_contains": ["CIDR"]}]}
+{"query": "How does Network Address Translation work?", "tenant": "demo", "relevant_locations": [{"text_contains": ["NAT"]}]}
+{"query": "Describe the IPv4 header format.", "tenant": "demo", "relevant_locations": [{"text_contains": ["IPv4", "header"]}]}
+{"query": "What are the differences between IPv4 and IPv6?", "tenant": "demo", "relevant_locations": [{"text_contains": ["IPv6"]}]}
+{"query": "How does ARP resolve IP addresses to MAC addresses?", "tenant": "demo", "relevant_locations": [{"text_contains": ["ARP"]}]}
+{"query": "Explain the DHCP protocol.", "tenant": "demo", "relevant_locations": [{"text_contains": ["DHCP"]}]}
+{"query": "What is ICMP used for?", "tenant": "demo", "relevant_locations": [{"text_contains": ["ICMP"]}]}
+{"query": "Describe the CSMA/CD protocol used in Ethernet.", "tenant": "demo", "relevant_locations": [{"text_contains": ["CSMA/CD"]}]}
+{"query": "How does CSMA/CA differ from CSMA/CD?", "tenant": "demo", "relevant_locations": [{"text_contains": ["CSMA/CA"]}]}
+{"query": "What is the Ethernet frame format?", "tenant": "demo", "relevant_locations": [{"text_contains": ["Ethernet", "preamble"]}]}
+{"query": "Explain the ALOHA protocol.", "tenant": "demo", "relevant_locations": [{"text_contains": ["ALOHA"]}]}
+{"query": "What is slotted ALOHA?", "tenant": "demo", "relevant_locations": [{"text_contains": ["slotted ALOHA"]}]}
+{"query": "How does a switch differ from a hub?", "tenant": "demo", "relevant_locations": [{"text_contains": ["switch", "hub"]}]}
+{"query": "What is the spanning tree protocol?", "tenant": "demo", "relevant_locations": [{"text_contains": ["spanning tree"]}]}
+{"query": "Describe VLAN tagging.", "tenant": "demo", "relevant_locations": [{"text_contains": ["VLAN"]}]}
+{"query": "Explain cyclic redundancy check for error detection.", "tenant": "demo", "relevant_locations": [{"text_contains": ["CRC"]}]}
+{"query": "How does Hamming code detect and correct errors?", "tenant": "demo", "relevant_locations": [{"text_contains": ["Hamming"]}]}
+{"query": "What is the Nyquist theorem?", "tenant": "demo", "relevant_locations": [{"text_contains": ["Nyquist"]}]}
+{"query": "State Shannon's channel capacity theorem.", "tenant": "demo", "relevant_locations": [{"text_contains": ["Shannon"]}]}
+{"query": "Describe frequency division multiplexing.", "tenant": "demo", "relevant_locations": [{"text_contains": ["frequency division"]}]}
+{"query": "What is time division multiplexing?", "tenant": "demo", "relevant_locations": [{"text_contains": ["time division"]}]}
+{"query": "How do fiber optic cables transmit data?", "tenant": "demo", "relevant_locations": [{"text_contains": ["fiber"]}]}
+{"query": "What is the difference between single-mode and multi-mode fiber?", "tenant": "demo", "relevant_locations": [{"text_contains": ["single-mode"]}, {"text_contains": ["multi-mode"]}]}
+{"query": "How does DNS resolve domain names?", "tenant": "demo", "relevant_locations": [{"text_contains": ["DNS", "domain name"]}]}
+{"query": "What is a DNS recursive resolver?", "tenant": "demo", "relevant_locations": [{"text_contains": ["recursive"]}]}
+{"query": "Describe the HTTP request-response cycle.", "tenant": "demo", "relevant_locations": [{"text_contains": ["HTTP"]}]}
+{"query": "What are HTTP persistent connections?", "tenant": "demo", "relevant_locations": [{"text_contains": ["persistent", "HTTP"]}]}
+{"query": "Explain how SMTP transfers email.", "tenant": "demo", "relevant_locations": [{"text_contains": ["SMTP"]}]}
+{"query": "What is the purpose of TLS?", "tenant": "demo", "relevant_locations": [{"text_contains": ["TLS"]}]}
+{"query": "Describe public key cryptography.", "tenant": "demo", "relevant_locations": [{"text_contains": ["public key"]}]}
+{"query": "What is a digital certificate?", "tenant": "demo", "relevant_locations": [{"text_contains": ["certificate authority"]}]}
+{"query": "Explain Diffie-Hellman key exchange.", "tenant": "demo", "relevant_locations": [{"text_contains": ["Diffie-Hellman"]}]}
+{"query": "What is the OSI reference model?", "tenant": "demo", "relevant_locations": [{"text_contains": ["OSI"]}]}
+{"query": "Compare the OSI model to the TCP/IP model.", "tenant": "demo", "relevant_locations": [{"text_contains": ["OSI"]}, {"text_contains": ["TCP/IP"]}]}
